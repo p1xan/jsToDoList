@@ -1,0 +1,13 @@
+.toggleLi {
+    background-color: black;
+}
+
+ul li input {
+    display: none;
+}
+.showField {
+    display: block;
+}
+.hideField {
+    display: none;
+}
